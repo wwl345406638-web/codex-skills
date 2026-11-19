@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考文档样式与写法"
+  short_description: "提取参考文档的字体、段落和章节写法，依照样式基准编写新内容"
+  default_prompt: "用 $reference-document-style 理解这份参考文档，提取标题层级、字体、段落及各章写法，先给我一份可复用的基准。"
